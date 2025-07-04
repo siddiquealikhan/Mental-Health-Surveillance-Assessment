@@ -8,7 +8,7 @@
 ---
 > This is a Raspberry Pi–based project submitted in partial fulfilment of the course **ECE2011 - Raspberry Pi Using Python**, developed by **K Vamshidhar Reddy** and **Siddique Ali Khan** of the CS&E Department in Presidency University, Bangalore.
 
-![Last Commit](https://img.shields.io/github/last-commit/Vamshi052004/Facial-Emotion-Recognition)
+
 ---
 
 >Original project developed in collaboration with [@Vamshi052004](https://github.com/Vamshi052004).  
