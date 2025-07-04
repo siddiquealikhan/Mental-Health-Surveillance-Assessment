@@ -11,6 +11,9 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Vamshi052004/Facial-Emotion-Recognition)
 ---
 
+>Original project developed in collaboration with [@Vamshi052004](https://github.com/Vamshi052004).  
+Forked here to showcase my individual contribution as well as deploying it to my personal portfolio website.
+---
 ##  Built With
 - **Languages & Frameworks**: Python, JavaScript, React, Keras, TensorFlow, NumPy, pandas  
 - **Build Tools**: Vite, npm, pip  
